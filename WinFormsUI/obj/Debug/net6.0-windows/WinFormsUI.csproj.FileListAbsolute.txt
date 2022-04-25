@@ -1,0 +1,15 @@
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.DragForm.resources
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WinFormsUI.csproj.GenerateResource.cache
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.DockContent.resources
+F:\WinForms-master\Outputs\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.deps.json
+F:\WinForms-master\Outputs\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.dll
+F:\WinForms-master\Outputs\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.pdb
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.dll
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WeifenLuo.WinFormsUI.Docking.pdb
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\ref\WeifenLuo.WinFormsUI.Docking.dll
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+F:\WinForms-master\WinFormsUI\obj\Debug\net6.0-windows\refint\WeifenLuo.WinFormsUI.Docking.dll

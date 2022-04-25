@@ -1,0 +1,9 @@
+C:\Users\xss\Desktop\WinForms-master\Outputs\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\xss\Desktop\WinForms-master\Outputs\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WinFormsUI.csproj.AssemblyReference.cache
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.cache
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\xss\Desktop\WinForms-master\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
